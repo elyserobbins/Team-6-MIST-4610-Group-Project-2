@@ -72,7 +72,7 @@ Overall, the dataset provides a comprehensive view of the EV landscape in Washin
 
 
 
-### 2. : What is the trend in electric vehicle adoption by model year, and which manufacturers have contributed the most to this growth?
+### Question 2. : What is the trend in electric vehicle adoption by model year, and which manufacturers have contributed the most to this growth?
 **Importance:** This question is important because it reveals how EV adoption has accelerated (or slowed) over time by model year, shedding light on consumer willingness to embrace newer electric technologies. Understanding these temporal trends has economic implications—planners and utilities can better time investments in charging infrastructure and grid upgrades to match waves of new registrations. It is also socially relevant, as surges in recent model years may reflect shifting public attitudes, policy incentives, or financing options, while stagnant years could signal barriers that need addressing. Additionally, identifying which manufacturers have driven the most growth informs competitive and policy decisions, such as tailoring rebate programs or supporting emerging brands to diversify the market. This question ties directly to the dataset through the Model Year and Make columns, enabling clear year‑over‑year trend analysis and manufacturer‐level contribution breakdowns.
 
 
@@ -183,7 +183,7 @@ Early entrants like Tesla and Volvo show consistent adoption year over year, rei
 
 
 ## Tableau Packaged Workbook:
-The Tableau Packaged Workbook (.twbx) containing the visualizations and dashboards described above has been uploaded to the project GitHub repository.
+
 
 
 -
